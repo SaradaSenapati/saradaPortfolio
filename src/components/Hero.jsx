@@ -25,7 +25,7 @@ const Hero = () => {
 
                  </p>
 
-                 <a href="/resume.pdf" 
+                 <a href="/resume1.pdf" 
                  target="_blank"
                     rel="noopener noreferrer"
                     download
