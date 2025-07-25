@@ -9,7 +9,7 @@ export const ABOUT_TEXT = `I am a dedicated and versatile full stack developer w
 
 export const EXPERIENCES = [
   {
-    year: "2025 - Present",
+    year: "Jan - Mar 2025",
     role: "Frontend Developer (Intern) ",
     company: "Tetra Trion Technologies Pvt. Ltd.",
     description: `Part of a team in developing and maintaining web applications using JavaScript, React.js, and Node.js. Implemented RESTful APIs and integrated with MongoDB databases.`,
